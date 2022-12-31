@@ -15,6 +15,7 @@ pip install requirements.txt
 ```
 
 Run the test.ipynb notebook.
+Use the saved_model.pb file as pretrained model
 
 
 
